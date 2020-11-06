@@ -26,3 +26,7 @@ test {
 war {
     enabled = true
 }
+jar {
+    baseName = <your-jar name>
+    enabled=true
+}
