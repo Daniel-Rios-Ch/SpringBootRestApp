@@ -27,6 +27,6 @@ war {
     enabled = true
 }
 jar {
-    baseName = <P1>
+    baseName = P1
     enabled=true
 }
