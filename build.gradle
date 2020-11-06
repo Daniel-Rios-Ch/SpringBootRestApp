@@ -23,10 +23,3 @@ test {
 	useJUnitPlatform()
 }
 
-war {
-    enabled = true
-}
-jar {
-    baseName = P1
-    enabled=true
-}
